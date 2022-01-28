@@ -14,3 +14,7 @@ Each account can call the following function to fulfill their goals.
 **2-1. balanceOfBatch**: represent the list of token's balance with list of specific token ID.  
 **2-2. MintBatch**: mint list of token with list of token ID and amount.  
 **2-3. safeBatchTransferFrom**: transfer list of token to specific account.  
+## 3. Setting & Environment ##
+Language: Solidity 0.5.17.    
+Simmulation Platform: Geth 1.10.15.    
+OS: Ubuntu 20.04.03.  
