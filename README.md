@@ -1,4 +1,4 @@
-# ERC_1155
+# NFT_ERC_1155
 ## 1. Goal ##
 Support both ERC20 and ERC721 token transaction.  
 ERC20 token represents the client's bonus point token issued by specific financial institution.   
