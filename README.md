@@ -9,6 +9,8 @@ This contract support the following goals.
   1-2. account can exhcnage any ERC20 token to any ERC721 NFT token to other accounts.  
   1-3. Contract supports one transaction one simultaneously transactes mutiple token.  
 ## 2. Function ##
+Each account can call the following function to fulfill their goals.
+  
 **2-1. balanceOfBatch**: represent the balance of token with list of specific token ID.  
 **2-2. MintBatch**: mint list of token with list of token ID and amount.  
-**2-3. safeBatchTransferFrom**: Transfer list of token to specific account.  
+**2-3. safeBatchTransferFrom**: transfer list of token to specific account.  
