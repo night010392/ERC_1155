@@ -6,7 +6,7 @@ ERC721 NFT token represents the NFT products of seller.
 This contract support the following goals.  
 
 1-1. Account can exchange one of ERC20 token to other ERC20 token to other accounts.  
-1-2. Account can exhcnage any ERC20 token to any ERC721 NFT token to other accounts.  
+1-2. Account can exchange any ERC20 token to any ERC721 NFT token to other accounts.  
 1-3. Contract supports mutiple token transaction in one transaction.  
 ## 2. Function ##
 Each account can call the following function to fulfill their goals.
